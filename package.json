@@ -1,0 +1,22 @@
+{
+  "name": "effigy-fliphorizontal",
+  "version": "1.0.0",
+  "description": "Flip horizontal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolem/effigy-fliphorizontal.git"
+  },
+  "keywords": [
+    "effigy"
+  ],
+  "author": "Rudy Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zolem/effigy-fliphorizontal/issues"
+  },
+  "homepage": "https://github.com/zolem/effigy-fliphorizontal#readme"
+}
