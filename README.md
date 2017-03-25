@@ -2,7 +2,7 @@
 Horizontal Flip of an ImageDataObject
 
 ## Original Image
-![Alt text](/readmeImages/original.jpg)
+![Original Image](https://raw.githubusercontent.com/zolem/effigy-fliphorizontal/master/readmeImages/original.jpg)
 
 ## After being run through the filter
-![Alt text](/readmeImages/flipped.jpg)
+![Flipped Image](https://raw.githubusercontent.com/zolem/effigy-fliphorizontal/master/readmeImages/flipped.jpg)
