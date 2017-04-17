@@ -1,12 +1,11 @@
 exports.getElement = () => {
-    var div = $('<div>');
-    var btn = $('<button>').appendTo(div);
-    btn.addClass('btn btn-link');
-    btn.html("<i class='fa fa-exchange'></i>&nbsp;Flip Horizontal")
-    btn.on('click', (e) => {
-        btn.trigger('runOperation');
+    var li = $('<li>').css("padding", 0);
+    var anchor = $('<a href="#">').appendTo(li);
+    anchor.html("<i class='fa fa-exchange'></i>&nbsp;Flip Horizontal")
+    anchor.on('click', (e) => {
+        anchor.trigger('runOperation');
     });
-    return div;
+    return li;
 }
 
 /**
