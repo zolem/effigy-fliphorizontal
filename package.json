@@ -1,6 +1,6 @@
 {
   "name": "effigy-fliphorizontal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Flip horizontal",
   "main": "index.js",
   "scripts": {
